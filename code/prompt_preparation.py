@@ -240,17 +240,19 @@ def build_zeroshot_prompt_strategyQA_with_singleSource_evidence(filename, mode='
     # v3 A: Unanswerable.\nB: Yes.\nC: No.
     file = load_line_json_data(filename)
     data = []
-    for unit in file:
-        if unit['conflict_entailment'] != True:
-            data.append("")
-            continue
-        if regenerate:
-            if unit['reGen_flag'] != True:
-                data.append("")
-                continue
+    for unit in file: # EDITED: Commented out below
+        # if unit['conflict_entailment'] != True:
+        #     data.append("")
+        #     continue
+        # if regenerate:
+        #     if unit['reGen_flag'] != True:
+        #         data.append("")
+        #         continue
         question = unit["question"]
-        conflict_evidence = unit["conflict_evidence"]
-        parametric_evidence = unit['parametric_memory']
+        # conflict_evidence = unit["conflict_evidence"]
+        # parametric_evidence = unit['parametric_memory']
+        conflict_evidence = unit["counter_memory_aligned_evidence"]
+        parametric_evidence = unit['parametric_memory_aligned_evidence']
         assert conflict_evidence is not None and parametric_evidence is not None
         if mode == 'implicit':
             evidence = conflict_evidence

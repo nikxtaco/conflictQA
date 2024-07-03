@@ -1,0 +1,51 @@
+0	C: Uncertain. 		While one study suggests that more modern-day Italians have genetic markers traced back to Julius Caesar's time, another study suggests that the number of men carrying Genghis Khan's Y chromosome is still significant at 1 in 200 men in Central Asia. Therefore, it is difficult to determine which historical figure has more living descendants today.
+0	C: Uncertain. (As per the second piece of information, recent studies suggest that the number of men carrying Genghis Khan's Y chromosome is lower than previously believed. However, the study about modern-day Italians having genetic markers traced back to Julius Caesar's time does not provide concrete evidence about the percentage of the global population directly related to him.)
+1
+2
+3	A: True.
+4
+5	C: Uncertain.
+6	C: Uncertain. The information provided is contradictory. The first information implies that Portuguese is the primary language used for broadcasting on Rede Globo, and Chinese may not be spoken by the anchors. However, the second information suggests that the anchors have a high proficiency in speaking Chinese. Without further clarification or evidence, it is uncertain whether the anchors on Rede Globo speak Chinese or not.
+7	C: Uncertain.
+8	A: True.
+9	Option A: True.
+0	C: Uncertain. (As per the second piece of information, recent studies suggest that the number of men carrying Genghis Khan's Y chromosome is lower than previously believed. However, the study about modern-day Italians having genetic markers traced back to Julius Caesar's time does not provide concrete evidence of a significant portion of the global population being directly related to him. Therefore, it is uncertain which historical figure has more descendants today.)
+1
+2
+3	A: True.
+4
+5	C: Uncertain.
+6	C: Uncertain. The information provided is contradictory. The first information implies that Portuguese is the primary language used for broadcasting on Rede Globo, and Chinese may not be spoken by the anchors. However, the second information suggests that the anchors have a high proficiency in speaking Chinese. Without further clarification or evidence, it is uncertain whether the anchors on Rede Globo speak Chinese or not.
+7	C: Uncertain. 		There are two contradicting pieces of information provided in the given information. The first information suggests that Albany, Georgia is not expected to reach a hundred thousand occupants before the one in New York. On the other hand, the second information suggests that Albany, Georgia is projected to reach a hundred thousand occupants before the one in New York based on recent population growth trends. Therefore, it is uncertain which one is correct without further information.
+8	A: True.
+9	C: Uncertain. 		The two given pieces of information present different viewpoints. The first one suggests that the language used in Saint Vincent and the Grenadines is not rooted in English, as the majority of the population speaks Vincentian Creole, a Creole language with African, French, and English influences. On the other hand, the second information indicates that the official language of Saint Vincent and the Grenadines is English, and that the majority of the population speaks either English or Vincentian Creole, which is an English-based Creole language. As the information is conflicting, it is uncertain whether the language used in Saint Vincent and the Grenadines is rooted in English or not.
+0	B: False.
+1	False. 		As per the provided information, only law enforcement officers can perform lawful arrests. Although some members of The Police have experience in law enforcement, their current role as musicians does not give them the authority to perform arrests.
+2	False. 		Explanation: According to the given information, the evidence supports the claim that a Grey seal would respond to a bell before a dog. Therefore, the correct option is false.
+3	A: True.
+4	A: True.
+5	False.
+6	B: False. The language used in Saint Vincent and the Grenadines, specifically Vincentian Creole, has evolved into its own distinct form, rather than remaining rooted in English.
+7	A: True.
+8	A: True.
+9	A: True.
+0	B: False.
+1	A: True.
+2	False. 		Explanation: According to the given information, the evidence supports the claim that a Grey seal would respond to a bell before a dog. Therefore, the correct option is false.
+3	A: True.
+4	A: True.
+5	False.
+6	B: False. The language used in Saint Vincent and the Grenadines, specifically Vincentian Creole, has evolved into its own distinct form, rather than remaining rooted in English.
+7	A: True.
+8	A: True.
+9	A: True.
+10	A: True.
+11	A: True.
+12	B: False.
+13	A: True.
+14	C: Uncertain.
+15	A: True.
+16	C: Uncertain.
+17	False.
+18	Option A: True.
+19	A: True.
